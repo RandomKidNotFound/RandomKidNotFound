@@ -1,4 +1,15 @@
-### Hi there 👋
+# [RandomKidNotFound](https://github.com/RandomKidNotFound)
+
+## About Me
+- 👋 Hi there, I'm RandomKid!
+- 👍 I like to code 24/7, and I enjoy socializing on Discord!
+
+## Contact
+- 💬 You can reach me on Discord ([RandomKid#4611](https://discord.com/users/881187368646893569)), I will make a public Discord server soon!
+- 📧 You can also email me (randomkidnotfound@gmail.com).
+
+## More
+- 👀 Coming soon...
 
 <!--
 **RandomKidNotFound/RandomKidNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
